@@ -1,0 +1,2 @@
+# SEVENLTENSEVEN
+TRIVMF is an easy to use, tailored for iOS trivia app! Test your random-fact knowledge in a plethora of categories, and impress your friends with your high scores in this game!  The current project is still under development, and the current stage is mainly to test the integrity of the system and the continuity of the interface. If you encounter problems during the test, please contact me
